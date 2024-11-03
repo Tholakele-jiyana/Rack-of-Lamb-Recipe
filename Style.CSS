@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(175, 133, 133);
+font-family: 'Times New Roman', Times, serif;}
+#header{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    background-image: url(images/fryingpan.jpeg);
+    padding-bottom: 250px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+#div1{
+    color: rgba(3, 75, 3, 0.836);
+    font-size: 25px;
+}
+#div2{
+    font-size: 16px;}
+#img1{
+    float: left;
+    margin-right: 30px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#img2{
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    padding-right: 30px;
+    margin-top: 10px;
+
+}
+#img3{
+    float: right;
+    margin-right: 0px;
+    padding-right: 50px;
+}
+#img4{
+    float: right;
+    margin-right: 10px;
+    padding-right: 50px;
+}
+#div3{color: rgba(3, 75, 3, 0.836);
+    font-size: 25px;
+}
+#div4{
+    font-size: 17px;
+}
+#div5{color: black;
+    font-style: italic bold;
+    
+}
